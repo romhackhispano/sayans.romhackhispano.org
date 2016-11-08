@@ -1,0 +1,177 @@
+====================================================================
+== ENTREVISTAS =====================================================
+====================================================================
+
+Datos Personales :			Avatar :
+
+ · Nick : Pablito's
+ · Fecha de Nacimiento : 20/02/1985
+ · Pais : España
+ · Ocupación : Estudiante
+
+
+Romhacking :
+
+ · Proyectos Realizados :
+
+	- Secret of Mana (SNES)
+	- Zelda: A link to the past (SNES)
+	- Phantasy Star II (MD)
+	- Phantasy Star III (MD)
+	- Final Fantasy III/VI (USA) (SNES)
+	- Final Fantasy	IV/II (JAP) (SNES)
+	- Otros varios de plataformas que me sirvieron para
+	  iniciarme
+
+ · Proyectos En Curso :
+
+	- Suikoden (PSX) (Quizás, pronto activo)
+	- Chrono Cross (PSX) (Grupo) (...Detenido...)
+
+
+
+01.- ¿Por qué empezaste en este mundillo del "Romhacking"?
+
+Por qué empecé... Pues un día cuando tenía 13 años (no sé si había
+cumplido los 14 ya, yo creo que sí), con mi súper Pentium II 400
+nuevo, empecé a manejar el ordenador e internet. Mi hermano siempre
+era el que se bajaba los emuladores y todo eso a los que jugué con
+un 486 xD Me metí en una emulatronia que había desaparecido, y una
+vez vi un programa, "Translator de JoSeK", para traducir juegos.
+Probé con el Hyper V-Ball, juego que me gustaba bastante y que
+alquilé varias veces en el videoclub. Y funcionaba la cosa. Me
+emocioné vamos. Aunque creía que eso de no pasarse del texto se
+refería a una palabra y no a una frase, así que imaginaos la primera
+versión del parche xD Y je, fijaos como sería el programa y la idea
+que tenía yo de informática que con el bloc de notas lo hubiera traducido
+mejor, abriendo el archivo xD El resto... Es una larga historia ;)
+
+
+02.- ¿A qué edad comenzaste, y cómo te resultarón los inicios
+     de las traducciones?
+
+Pues yo diría que a los 14 años. Los inicios, pues no sé, la verdad
+es que no había nada de nada, aunque el thingy ya existía, creo.
+Yo sólo veía página de Omake Translations de emulatronia, que creo
+que nunca fue actualizada xD Pero lo que me animó fue descubrir
+Nueva Era Translations, le pregunté alguna que otra cosa a su webmaster,
+Crono. Aunque yo cuando me inicié, sólo sabía manejar el Ultraedit.
+Cuando dije de formar un grupo, no sabía ni qué era el thingy ni
+una tabla. Fue El_Gordo, tras hablarme como si ya supiera yo eso,
+el que me dio la pista de que algún truco tenía todo esto. Por ejemplo,
+no encontraba el texto en el Secret of Mana, que me hacía mucha ilusión.
+Menos mal que seguí en el tema y lo conseguí averguar con mi querido
+SearchR :)
+
+03.- ¿Cuál fue tu primera traducción?
+
+Mi primera traducción, el Hyper V-Ball, y luego creo que fue el
+Battletoads in Battlemaniacs. Pero mi primera traducción medio
+"seria", es, sin duda, la del Secret of Mana. Traducción que hice
+con Rocky muy gustosamente, nos lo ventilamos en poco tiempo. Aunque
+la primera versión dejaba que desear, palabras cortadas (no sabía que
+se podía correr el caracter de línea nueva ni nada) ni tildes ni nada.
+Al cabo de un tiempo de sacarla, yo mismo revisé entero el juego
+otra vez, habiendo logrado insertar tildes y demás. Que vaya cachondeo
+por cierto, cambié la W y no me acordaba que salía mucho un nombre
+con W, en este caso, Watts. ...Le puse Pedro xDDDDDDDDDDD
+Luego sufrió algún que otro retoque, no hace mucho, con la intro
+traducida. La verdad es que considero que es mi "peor" traducción de los
+RPG que he traducido. Que tenía 14 años cuando lo hice leñe :P Además,
+me ceñí al espacio original, vamos que los punteros no están cambiados.
+Aunque no se queda atrás, para mí, la del Phantasy Star II, algo que no
+me gusta que sea así porque es mi juego sagrado :/
+
+04.- ¿Qué juego desearias traducir?
+
+Siempre dije que el Phantasy Star IV y lo mantendré. Pero se ha unido
+uno más a la lista, y creo que con prioridad sobre el Phantasy Star IV.
+Es... El XENOGEARS, obra maestra de Square, un juego que tiene una historia
+que creo que nunca veré superada, quizás porque ya no juego a nada y
+menos a RPGs. Y quizás haya influido esto de traducir, porque tras
+haber empezado a traducir, como mucho he jugado a mis juegos traducidos
+para testearlos (es decir, no con tranquilidad), y poca cosa más,
+menos mal que jugué al Xenogears el año pasado en verano, que me dio
+la vena y no tenía otra cosa que hacer ;)
+Hum... Demasiado hacking, es un juego de PSX, y, sobre todo, DEMASIADO
+texto... Es una burrada lo que tiene... Pero sé que podría hacerlo si fuera
+sólo traducir.
+
+05.- ¿Cuál es tu mejor momento que recuerdas de este mundo?
+
+Mi mejor recuerdo, de lo que es la "scene"... La verdad, no lo sé :P
+Quizás sea por el año 2000 ó 2001, cuando había mucha gente con ganas
+de trabajar y pasabas noches entretenidas a veces hablando con la peña
+en #traduroms. Porque si antes se hablaba poco, ahora menos... Y si se
+habla es de todo menos de traducciones...
+
+06.- ¿Cuál es el peor?
+
+No recuerdo peor momento que ESTE momento... Esto está muerto... Nadie
+hace nada... Los pocos que quedaban se han ido yendo... Hasta yo me fui,
+puede que vuelva ahora... Ya lo hice pero es que todo sigue igual...
+No llega gente nueva ni pasa nada nuevo, quizás ésas son también las
+razones por las que quiero volver, para revivir esto, o al menos un
+intento. O bien, para hacer creer que aún hay vida en la scene española...
+Realmente, me apena todo esto. Yo ya llevo unos años quemado de tanto
+traducir, que traducir un juego como un Final Fantasy es una odisea.
+Creo que alguien debería hacer algo más.
+
+07.- ¿Qué opinas del momento actual de la traducción Hispana?
+
+Esto me lo ahorro, ya he contestado antes :P
+
+08.- ¿Por qué crees que la gente se piensa que es tan facil 
+     traducir videojuegos?
+
+Fácil... Porque no lo han intentado, no tiene otra explicación, y porque
+si ven que juegos como los Final Fantasy o el Tales of Phantasia han
+sido traducidos con calidad, ¿por qué los demás no pueden traducirse?
+Pocos saben el verdadero trabajo que lleva esto... Sólo lo saben los que
+han traducido, y BIEN, porque podría haber tardado mucho menos si me
+hubiera preocupado menos por el resultado final. Odio eso "yo es que pongo
+q en vez que porque no me cabe, si se entiende". Se entiende... Pero para
+mí es una cutrada total y yo, que sé inglés, para eso juego en inglés.
+En realidad, cuando la gente me pide traducir un juego, sé que no lo
+hacen con mala intención.
+
+09.- ¿Qué consola y qué tipo de juego prefieres?
+
+Pues cualquiera que hay y ha habido en el mercado, no tengo una
+favorita ni "soy de Nintendo o Sega" como muchos dicen. Prefiero un
+buen buen RPG, aunque no descarto un arcade para echar el rato.
+
+10.- Pokemón ...
+
+No le tengo ningún odio ni soy fan. No he jugado a los juegos y
+prefiero otro tipo de anime. Lo único que me molesta es que todos
+los niños pequeños se emocionen con pokémon y no con series que vi
+de pequeño.
+
+Algún comentario extra ...
+
+Puede que haya ayudado a gente traduciendo. Puede que lo que haya hecho haya
+sido acomodar al "usuario" a que no sepa inglés y necesite que los juegos
+estén en español. Puede que me hubiera debido dedicar a otra cosa en estos
+4 años. Perder el tiempo sé que no lo he hecho. Sufrir, he sufrido mucho.
+Pero no me quejo, ahora no sufro y estoy muy orgulloso de lo que he hecho,
+y he aprendido mucho. Todo el "sufrimiento", palabra quizás algo fuerte, me
+lo he buscado yo solito :P
+No me puedo creer que haya tanta gente que me "conoce" y "admira". Aunque
+desgraciadamente, de los que conozco personalmente, no tienen ni pajolera idea.
+Sinceramente, me gustaría ser conocido por quién soy y cómo soy, y no por lo
+que he hecho. Me pregunto dónde estaría ahora en internet y en el ordenador.
+¿Habría conocido a gente tan estupenda? ¿Estaría yo ahora posteando en el foro
+de RPG Time (un saludo para todos los de allí por cierto), conocería a Flik y a
+los demás? ¿Seguiría más recluido de la sociedad que ahora, o sería al contrario?
+¿Me metería ahora a preguntar algo en un foro de traducciones y me mirarían con
+malos ojos pensando que soy un novato? ¿Sería como soy? ¿Qué coño estaría
+haciendo ahora? Son varias preguntas retóricas que me gustaría algún día conocer
+su respuesta...
+
+Algo para la posteridad...
+
+No me gustaría que me conociérais por Pablito's. Me gustaría que todo fuera
+como es ahora, llamándome Pablo Muñoz Sänchez. En el fondo, me gustaría que
+todos vosotros os acordarais de mí en el futuro... Que supierais que exisistí
+alguna vez...

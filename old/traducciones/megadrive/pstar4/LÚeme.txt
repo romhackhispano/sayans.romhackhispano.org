@@ -1,0 +1,252 @@
+ ______      ___  __    __   ___   __   _   ______
+/  ___/     /   | \ \  / /  /   | |  \ | | /  ___/ 	  
+| |___     / /| |  \ \/ /  / /| | |   \| | | |___  	http://sayans.todotradus.com
+\___  \   / /_| |   \  /  / /_| | | |\   | \___  \ 	
+ ___|  | / ___  |   / /  / ___  | | | \  |  ___|  | 	 Las mejores traducciones
+/_____/ /_/   |_|  /_/  /_/   |_| |_|  \_| /_____/      de tus juegos preferidos ;)
+
+								@ 1999-2005
+
+ _____   _____        ___   _____   _   _   _____   _____   _   _____   __   _   ______ 
+|_   _| |  _  \      /   | |  _  \ | | | | /  ___| |_   _| | | /  _  \ |  \ | | /  ___/ 
+  | |   | |_|  |    / /| | | | | | | | | | | |       | |   | | | | | | |   \| | | |___  
+  | |   |  _  /    / /_| | | | | | | | | | | |       | |   | | | | | | | |\   | \___  \ 
+  | |   | | \ \   / ___  | | |_| | | |_| | | |___    | |   | | | |_| | | | \  |  ___|  | 
+  |_|   |_|  \_\ /_/   |_| |_____/ \_____/ \_____|   |_|   |_| \_____/ |_|  \_| /_____/ 
+
+	       __________________________________________________________ 
+	      /				      		   	 	 \ 
+--------------	|¯| | | /¯\ |\| ¯|¯ /¯\ |¯  \|   |¯  ¯|¯ /¯\ |¯|   | \ |  --------------
+--------------  |¯  |¯| |¯| | |  |  |¯|  ¯|  |    ¯|  |  |¯| |¯\   |  \|  --------------
+      	      \__________________________________________________________/
+
+		   __________________________________________
+		  /          SAYANS TRADUCTIONS STAFF        \	
+		  \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+	  	  |					      |	
+		  |  ROMHACKING: Hyllian, Pablito's    	      |  
+		  |  TRADUCCIÓN DE SCRIPTS: Pablito's	      |  
+		  |  TRADUCCIÓN DE MENÚS:   Pablito's         |  
+		  |  AYUDA: Hyllian, gamer_boy, KaOSoFt       |
+		  |  	    Meta-Starman_Ness, DiMiTRiX, Ark  |  
+		  \___________________________________________/
+
+
+
+   _______________________________________________________________________________
+  /										  \
+ /				 TABLA DE CONTENIDOS	   			   \
+/___________________________________________________________________________________\
+|										     |
+|										     |
+| 1. Novedades			   						     |
+| 2. Historia de la traducción	   						     |
+| 3. Notas y observaciones de la traducción					     |
+| 4. Cómo parchear								     |
+| 5. Agradecimientos								     |
+|										     |
+\___________________________________________________________________________________/ 
+
+
+
+   _______________________________________________________________________________
+  /										  \
+ /			   	    1. Novedades				   \
+/___________________________________________________________________________________\
+|										     |
+|										     |
+| 6/01/2005 -> Versión 1.1							     |
+| ---------------------------------------------------------------------------------- |
+| 										     |
+| - Se han corregido bastantes erratas de los diálogos (gracias a personas como      |
+|   Meta-Starman-Ness, DiMiTRiX y Ark entre otros) y además se ha retocado alguna    |
+|   que otra frase que había traducido mal o que ahora suena más natural, al igual   |
+|   que he retocado las rimas de Raja ;) A menos que se encuentre otra errata,       |
+|   no creo que revise más el texto del juego.					     |
+|										     |
+| - He incluido el parche para la versión SMD de la ROM además de para la BIN por si |
+|   las moscas, que siempre hay algún despistadillo que no sabe convertir el formato |
+|   de la ROM ;)								     |
+|										     |
+| - También he cambiado el apóstrofe (') por comillas dobles (") para que quede      |
+|   mejor. Lo único malo es que ahora en los créditos pone Pablito en vez de         |
+|   Pablito's, pero da igual xD Por supuesto, los créditos están actualizados ;)     |
+|										     |
+\___________________________________________________________________________________/ 
+
+
+
+   _______________________________________________________________________________
+  /										  \
+ /			    2. HISTORIA DE LA TRADUCCIÓN			   \
+/___________________________________________________________________________________\
+|										     |
+|										     |
+| Bien, a ver qué pongo ahora, que tengo un cebollazo que no veas de tinto (hay que  |
+| ver cuando lea esto dentro de unos años), que es la fería de Almería y hay que     |
+| divertirse un poco, que no todo es traducir :) 				     |
+| 										     |
+| Pues todo empezó a finales de Julio si mal no recuerdo, o más bien el 1 de Agosto  |
+| de 2004, cuando entré al canal #traduroms del IRC (hacía siglos que no entraba)    |
+| y resulta que vinieron Hyllian y gamer_boy, traductores brasileños, para decirnos  |
+| que si estábamos interesados en traducir el Phantasy Star IV nos pasaban los	     |
+| scripts si nosotros les ayudábamos a traducir el Shining Force II (del que se      |
+| encargaba KrusheR). Total, que sí, que nos mandaron los scripts :D En ese momento, |
+| que yo sepa, no había nadie interesado en traducirlo. No sé si lo sabréis, pero me |
+| inicié en los RPGs gracias a la saga Phantasy Star (con el II), y cuando por fin   |
+| tuve en mis manos el IV, quedé enganchadísimo al juego. Total, que una vez empecé  |
+| en esto de las traducciones, uno de mis sueños (tras haber traducido el II sin     |
+| símbolos del español como la ñ y sin esmerarme demasiado en la traducción) fue     |
+| traducir el Phantasy Star IV. Hace tiempo incluso unos cuantos traductores (tan    |
+| sólo recuerdo a uZiel, lo siento por los demás :P) intentamos averiguar su sistema |
+| de compresión del texto, pero no logramos nada. Bueno, que me enrollo para no      |
+| variar :P Pues eso, que me pasaron los scripts y ya imagineréis, yo estaba         |
+| contentísimo ^_^ Al día siguiente gamer_boy me pidió que tradujera un script y así |
+| lo hice, y a los tres días (estuve de viaje) vi que Hyllian me había enviado el    |
+| parche con los progresos, y nada más verlo es que se me puso una sonrisilla en la  |
+| cara... :_) Poco a poco traducía los scripts, pero, sin duda alguna, el "empujón"  |
+| lo di cuando, casualidades de la vida, mis amigos se fueron de vacaciones a otro   |
+| lado (salvo uno, pero quedé poco con él). Sabía que tenía que aprovechar esa       |
+| semana, y vaya sí lo hice. Traducía una media de 5 scripts por día (son 43), algo  |
+| que en circunstancias normales no traduciría :P				     |
+| 										     |
+| Así pues, poco a poco le iba enviando los scripts traducidos a Hyllian, hasta que  |
+| por fin tenía en mi poder el parche con todos los textos traducidos :D	     |
+| Aún quedaba traducir los menús y algunas cosillas más (más de lo que me esperaba), |
+| así preferí traducir todo (salvo algún pequeño detalle) antes de testear todo el   |
+| juego. Hice bien, porque tuve que corregir cosas de los menús (los punteros me han |
+| dado guerra, aunque me han sido muy útiles :D). Según iba jugando iba cambiado     |
+| fallitos de poner "Dóned" en vez de "Dónde" y cosas así, aunque también mejoré un  |
+| poco lo que vi oportuno al tener el contexto delante de mis narices :P La verdad   |
+| es que disfrutaba como un niño ^_^ Pronto llegó la primera preocupación, y es que  |
+| en algunos sitios el juego se colgaba. Tuve que hacer el típico truco del Save     |
+| State y la ROM original para avanzar en el juego. Todo lo "malo" se lo comunicaba  |
+| a Hyllian, quien en un periquete corregía (este tío es un máquina). En Dezolis     |
+| encontré un fallo muy raro (tenía que pasar una cosa pero no pasaba xD), pero esta |
+| vez la solución fue cambiar una línea de un texto y ya todo salía como debía de    |
+| salir... Una cosa rara, vamos. También encontré un fallo en los objetos, y es que  |
+| en las batallas salían con un orden y en el "campo" salían con otro xD Intenté     |
+| corregir el fallo sin éxito, aunque lo tenía casi localizado, así que esperé hasta |
+| el final para solucinarlo. Menos mal que no hubo problema, en unos minutitos di    |
+| con la solución ;) Luego revisé una vez más los scripts (creía que no era          |
+| necesario, aunque cambié más cosas de las que me esperaba) y finalmente le mandé a |
+| Hyllian los scripts definitivos. Mientras escribo esto estoy esperando su parche,  |
+| aunque ya me ha escrito para decirme que no tardará mucho en mandármelo :D	     |
+|										     |
+| Pues más o menos, ése es el resumen de todo lo acontecido en nada más y nada menos |
+| que un mes. Fue muy bonito (¡cansado y emocionante también!) mientras duró.        |
+| Ha sido un placer traducir este juego y un placer trabajar con Hyllian (le estaré  |
+| agradecido toda la vida). Además, creo que me superado con esta traducción, así    |
+| que... ¡Que la disfrutéis! ^_^						     |
+|										     |
+\___________________________________________________________________________________/ 
+
+
+
+   _______________________________________________________________________________
+  /										  \
+ /		     3. NOTAS Y OBSERVACIONES DE LA TRADUCCIÓN		       	   \
+/___________________________________________________________________________________\
+|										     |
+|										     |
+| - Que yo sepa, TODO está traducido, desde los diálogos del juego hasta los ataques |
+|   combinados (es lo que me flipa de este juego, si es que lo tiene todo :P).       |
+|   El texto tiene acentos, ñ, ¡ y ¿, aunque en los menús ha sido imposible          |
+|   insertarlos. Una lástima, pero qué se le va a hacer :( Tampoco he logrado        |
+|   cambiar el HP/TP/SP de los combates, no los he encontrado por ningún lado...     |
+| 										     |
+| - Puede que algunos textos de los menús suenen un poco "mal", como lo de "hallado" |
+|   y cosas así, pero si los he dejado así es porque la línea en cuestión se saldría |
+|   de la ventana si hubiera puesto "encontrado" (lo mismo con los otros textos).    |
+|										     |
+| - No he traducido ningún nombre ni nada raro, aunque sí los he adaptado a la	     |
+|   ortografía del español, por lo que ahora hay un Zío y no un Zio. Lo mismo con    |
+|   Kurán y Zelán. He creído oportuno dejar "Dark Force", porque me suena un poco    |
+|   feo eso de "Fuerza Oscura", y como aparece bastante en el juego... Y eso que en  |
+|   el Phantasy Star III sí que puse Fuerza Oscura xD No obstante, cuando lo nombran |
+|   por primera vez aclaro su traducción (Chaz: ¿Dark Force? ¿Fuerza Oscura?).	     |
+|										     |
+| - Sinceramente, me siento MUY satisfecho de la traducción. No todo ha sido un      |
+|   camino de rosas, he tenido que hacer uso del diccionario muchas veces y ha       |
+|   habido frases que no he entendido, pero aun así creo que todo ha quedado bien.   |
+|   Además, creo que he mantenido la personalidad de cada personaje muy bien, ya os  |
+|   daréis cuenta sobre todo con Alys y Raja (me costado traducir las rimas de este  |
+|   tío) y los piques de Chaz y Rune :P También hay algún insulto que otro, pero     |
+|   creo que los he puesto sólo en los momentos necesarios (si no los hubiera puesto |
+|   no habría quedado bien del todo el diálogo en cuestión).			     |
+|   										     |
+| - Es posible que gente que no sea de España no entienda algunas expresiones que he |
+|   puesto... Hombre, sinceramente, es que si no las ponía creo que el texto quedaba |
+|   demasiado "traducido literalmente". Supongo que es algo normal en una traducción |
+|   y, de hecho, yo también me siento raro cuando veo algunas expresiones de otro    |
+|   país en alguna traducción :P         					     |
+|										     |
+\___________________________________________________________________________________/ 
+
+
+
+   _______________________________________________________________________________
+  /										  \
+ /				 4. CÓMO PARCHEAR				   \
+/___________________________________________________________________________________\
+|										     |
+|										     |
+| Para ello deberás tener:							     |
+| 										     |
+| 1) El parche para que aparezca en castellano (incluido en este archivo).	     |
+|										     |
+| 2) La ROM del Phantasy Star IV (a mí no me preguntes, busca en una página de       |
+|    ROMs :P).									     |
+|										     |
+| 3) El programa GenRomSuite para que la ROM esté en formato .bin en caso de estar   |
+|    en .smd (está en la sección de utilidades). No creo que haga falta explicar     |
+|    cómo hacerlo :P								     |
+|										     |
+| 4) El programa IPSWin para parchear (está en la sección Utilidades).		     |
+|    Tan fácil como elegir el parche y la ROM donde corresponda y hacer click en el  |
+|    botón "Patch!" para aplicar el parche :D					     |
+|										     |
+\___________________________________________________________________________________/ 
+
+
+
+   _______________________________________________________________________________
+  /										  \
+ /				5. AGRADECIMIENTOS				   \
+/___________________________________________________________________________________\
+|										     |
+| - Al primero que tengo que darle las gracias es a HYLLIAN, ya que, sin él, nunca   |
+|   habría logrado traducir este pedazo de juego. Se ha portado muy bien conmigo ^^  |
+|   También debo darle las gracias a gamer_boy, que hizo de intermediario entre      |
+|   Hyllian y yo al principio, y también a KaOSoFt, que mientras yo no estaba parece |
+|   que él se encargó de hablar un poco con él (o eso creo xD) :)       	     |
+|   También debo darle las gracias a Meta-Starman_Nes, a Ark y a DiMiTRix por	     |
+|   haberme avisado de bastantes erratas que había en la versión anterior :)	     |
+| 										     |
+| - De forma indirecta debo darle las gracias a mis amigos, ya que, como explico más |
+|   arriba, traduje como un loco debido a que ellos se fueron de vacaciones unos     |
+|   días. Si es que los amigos están para todo estén o no estén presentes xD	     |
+|										     |
+| - Quiero dedicar la traducción a Marle de RPG Time, quien se inició en los RPGs    |
+|   con este juego :) Espero que te guste la tradu ^_^				     |
+|   También se la dedico a Rocky, que el día 30 de Agosto es su cumpleaños, y a mi   |
+|   hermano, hay que ver qué vicios echábamos a los Phantasy Star en nuestra         |
+|   Megadrive :)							             |
+|										     |
+| - Saludo a toda la escena española y brasileña, ya sabéis, gi0, Ereza, uZiel,      |
+|   jonas_, Magno, KaOSoFt, monicapo, Ragnarok, Alvein, KrusheR, Cid, Madmalkav,     |
+|   Magimaster 2... and company :P						     |
+|										     |
+\___________________________________________________________________________________/ 
+
+			
+		    	  COPYRIGHT 2004-2005 Sayans Traductions
+
+ 	PROHIBIDA LA DISTRIBUCIÓN DEL PARCHE SIN SU CORRESPONDIENTE LÉEME.TXT
+ SI LO CUMPLES, PUEDES PONER EL PARCHE EN TU WEB, SIEMPRE QUE MENCIONES A LOS AUTORES
+
+
+	            Visita nuestra web en http://sayans.todotradus.com
+
+		      E-mail de Pablito´s: pablithacker@hotmail.com
+		 	E-mail de Hyllian: sergiogdb@hotmail.com

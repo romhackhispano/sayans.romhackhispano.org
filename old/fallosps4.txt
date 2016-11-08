@@ -1,0 +1,133 @@
+08-09-2004
+
+
+Meta-Starman_Ness
+----------------------------------------
+Aiedo, Gremio de Cazadores
+Recepcionista, al aceptar el trabajo "Soldado de plata"
+-¡La recompensa es de 800000 meseta!
+=800000 -> 80000 (Más quisieras tú, 800k meseta... xDDD)
+
+Fort (¿Fuerte?) Vahal
+Rika
+-No comprendo cómo puedo haber alguien que envíe órdenes (...)
+=puedo -> puede
+
+
+
+
+
+07-09-2004
+
+
+Meta-Starman_Ness
+----------------------------------------
+
+Bioinstalaciones
+-Rika
+Soy Rika, encantado de conoceros.
+=encantado -> encantada
+
+-Hahn
+¿Entonces, eso significa que el número de Biomonstruos que
+ha aumentando, tiene aquí su origen?
+=ha aumentando -> ha aumentado, está aumentando
+
+Valle del Pájaro
+=Valle del Nacimiento, Valle Nacimiento
+(Según la guía, en inglés parece ser "Birth Valley", y Birth significa "Nacimiento")
+
+Aiedo
+-Tipo al noreste de la ciudad
+Soy cazador, pero últimanente no encuentro trabajo.
+=últimanente -> últimamente
+
+Centro de Máquinas
+-Demi
+Derrotar a Zio no va a resolver el problema.
+= Zio -> Zío (¿¡Otra vez!? ¿Pero a tí qué te pasa? xD)
+
+Land Rover (Pulsando A, B o C en arenas movedizas)
+Cannot get off!
+=No se puede bajar! (Qué, te olvidaste de traducirlo, ¿eh? xD)
+
+Termi
+-Aldeano en la tienda de armaduras
+(...) pusiera todos mi corazón en hacer metal.
+=todos -> todo
+
+Termi
+-Aldeano al noreste de la estatua
+Era alto y estuvo observado la estatua de la heroína durante (...)
+=observado -> observando
+
+Batalla, Habilidades de Chaz
+AERPGLPE
+=AEROGLPE (Creo que queda mejor, ¿no?)
+
+Ryuon
+Gyuna (el barman), al hablar sobre Raja
+-Chaz
+De derdad, me resulta increíble...
+=derdad -> verdad (A mí también me resulta increíble esto... xD)
+
+Cueva Misteriosa
+-Jefe de los gatos de almizcle
+Aquí tenéis el COlmillo de Plata. Usadlo bien.
+=COlmillo -> Colmillo
+
+Jut
+Dezolisiano de azul en una casa al norte
+-Bueno, esta bien por esta vez.
+=esta (el primero) -> está
+
+
+
+DiMiTRiX
+----------------------------------------
+-cuando vas a comprar o vender pone "com" y "vend" .
+¿No sería mejor poner "Com" y "Vend" en mayúsculas?
+(Pablito's: En el original salen así)
+
+-En las tiendas he visto "Una arma..." (Pablito's:
+Vale leche, que me he despistado en tan sólo UN arma xD)
+
+- Acabo de conseguir en un cofre CRNA TITAN (que por cierto CRNA
+no deduzco lo que es). El caso es que he puesto Objeto y Mirar
+desde el menú y me sale: 
+
+"Un casco de mujer 
+(hecho de) titanio." 
+
+El paréntesis solo aparece temporalmente, pero luego se quita
+y aparece "titanio." solamente, quedando el texto: 
+
+"Un casco de mujer 
+titanio."
+
+-En Piata, en una caja meteorológica de esas (la de la izquierda)
+dice que la temperatura es de 83 grados... ¿Has pensado en los
+pobres habitantes de Piata macho? xD. Se deben estar
+deshidratando xD (ya, vale que sea un juego y sea ficción,
+otro planeta, otra galaxia, pero me parece muy fuerte que estén
+a 83 grados) -> Pablito's: Vale, vale, son farenheit, ya lo cambio :P
+
+-En Zema, cuando todos están petrificados, en una casa abierta
+hay dos niños. Al hablarle a la niña dice "¿Qué está pasado fuera?".
+Le falta la n a "pasado".
+
+
+
+
+Alvein
+----------------------------------------
+-He encontrado una pequeño incoherencia en el texto de la
+intro,no se si ya te habra informado alguien de ello o si ya
+lo has corregido. Te mando una imagen con el error en cuestión.
+(Pablito's: "...hubo una vez en la QUE había tiempos mejores").
+
+
+
+KaOSoFt
+----------------------------------------
+-En Zema: Mamí... -> Mami
