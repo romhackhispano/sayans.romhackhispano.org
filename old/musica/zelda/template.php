@@ -4,7 +4,7 @@
   <title>[TITLE]</title>
 
 
-  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
   <link href="estilo00.css" rel="stylesheet" type="text/css" />
 
